@@ -1,5 +1,5 @@
 # Easy
-# binary search
+# binary_search
 # https://leetcode.com/problems/binary-search/
 
 def search(nums, target):
